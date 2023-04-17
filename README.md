@@ -1,5 +1,6 @@
 ### 네트워크
-<summary> ### 네트워크 </summary>
+
+<details> ### 네트워크 </details>
 
 <details>
   <summary>웹 통신의 큰 흐름: https://www&#46;google&#46;com/ 을 접속할 때 일어나는 일</summary>
